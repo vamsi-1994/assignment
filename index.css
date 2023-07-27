@@ -1,0 +1,66 @@
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
+  padding-top: 50px;
+  background-size: cover;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 36px;
+  font-weight: bold;
+}
+.sub-heading {
+  color: antiquewhite;
+  font-family: 'Bree Serif';
+  font-size: 32px;
+}
+.sub-container {
+  background-color: transparent;
+  height: 100px;
+  width: 75vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.button1 {
+  background-color: rgb(75, 125, 207);
+  color: white;
+  border-radius: 5px;
+  padding: 2px;
+  margin: 5px;
+  border-color: black;
+}
+.button {
+  background-color: transparent;
+  color: black;
+}
+.inputNumber {
+  color: black;
+  font-size: 16px;
+}
+.list-item {
+  background-color: aquamarine;
+  color: black;
+  font-size: 12px;
+}
+.bottom-part {
+  background-color: transparent;
+  height: 100px;
+  width: 70vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.value {
+  color: aliceblue;
+  padding: 2px;
+  margin: 2px;
+  background-color: blueviolet;
+}
